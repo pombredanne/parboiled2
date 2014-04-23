@@ -769,7 +769,7 @@ DynamicRuleDispatch
     separating out all the possible cases *parboiled* provides the ``DynamicRuleDispatch`` facility.
     Check out `its test`_ for more info on how to use it.
 
-.. _its test: https://github.com/sirthias/parboiled2/blob/v2.0-M2/parboiled/src/test/scala/org/parboiled2/DynamicRuleDispatchSpec.scala
+.. _its test: https://github.com/sirthias/parboiled2/blob/v2.0.0-RC1/parboiled/src/test/scala/org/parboiled2/DynamicRuleDispatchSpec.scala
 
 ----
 
