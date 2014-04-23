@@ -751,7 +751,7 @@ Additional Helpers
 ------------------
 
 Base64Parsing
-    For parsing RFC2045__(Base64)-encoded strings *parboiled* provides the ``Base64Parsing`` trait which you can
+    For parsing `RFC2045`_ (Base64) encoded strings *parboiled* provides the ``Base64Parsing`` trait which you can
     mix into your ``Parser`` class. See `its source`__ for more info on what exactly it provides.
     *parboiled* also comes with the ``org.parboiled2.util.Base64`` class which provides an efficient Base64
     encoder/decoder for the standard as well as custom alphabets.
