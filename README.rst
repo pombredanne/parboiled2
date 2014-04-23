@@ -756,8 +756,8 @@ Base64Parsing
     *parboiled* also comes with the ``org.parboiled2.util.Base64`` class which provides an efficient Base64
     encoder/decoder for the standard as well as custom alphabets.
 
-    __ http://tools.ietf.org/html/rfc2045#section-6.8
-    __ https://github.com/sirthias/parboiled2/blob/v2.0.0-RC1/parboiled/src/main/scala/org/parboiled2/Base64Parsing.scala
+__ http://tools.ietf.org/html/rfc2045#section-6.8
+__ https://github.com/sirthias/parboiled2/blob/v2.0.0-RC1/parboiled/src/main/scala/org/parboiled2/Base64Parsing.scala
 
 ----
 
@@ -769,7 +769,7 @@ DynamicRuleDispatch
     separating out all the possible cases *parboiled* provides the ``DynamicRuleDispatch`` facility.
     Check out `its test`__ for more info on how to use it.
 
-    __ https://github.com/sirthias/parboiled2/blob/v2.0-M2/parboiled/src/test/scala/org/parboiled2/DynamicRuleDispatchSpec.scala
+__ https://github.com/sirthias/parboiled2/blob/v2.0-M2/parboiled/src/test/scala/org/parboiled2/DynamicRuleDispatchSpec.scala
 
 ----
 
